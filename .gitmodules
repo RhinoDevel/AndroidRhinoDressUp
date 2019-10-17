@@ -1,0 +1,3 @@
+[submodule "app/src/main/assets/RhinoDressUp"]
+	path = app/src/main/assets/RhinoDressUp
+	url = https://github.com/RhinoDevel/RhinoDressUp
